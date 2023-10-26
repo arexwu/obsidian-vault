@@ -1,0 +1,2 @@
+Helium cannot become diatomic because of the fact that the drop in potential energy from helium attracting is very small. This means that the helium atoms are broken apart by other helium atoms at 4k or above. Hydrogen is much more stable, 1000 times stronger. This bond is so strong that the temperature for needed for the kinetic energy of other hydrogens to break this bond apart it 5000K. this is because the bond is chemical hydrogen forms covalent bond(chemical bond)
+[[Coulombs law]][[1.8 Interaction between helium atoms and hydrogen molecules]] [[Bonds]] 

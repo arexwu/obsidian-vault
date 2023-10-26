@@ -1,0 +1,3 @@
+- number of neutrons generally are more than protons so [[strong force]] overcomes P+ P+ repulsion
+	- have <92 protons
+	- close to 1:1 neutron/proton ratio

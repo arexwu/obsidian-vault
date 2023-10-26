@@ -1,0 +1,312 @@
+{
+  "main": {
+    "id": "2d6bf2fd429dbeea",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bd02609af9fd57b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7c9cda8ebe67092",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content/Chemistry 1061 1065/Chemistry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "572367755169a4d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apartment Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e96f825ac9692c9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "origin of atoms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1a2017205bb6f8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nuclear reactions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a720d078254253e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "strong force.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24415361849eb9e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bonding in metals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85fd37508594e049",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5f530cff8082966",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "061ecfb41b374555",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "1c3587ac5cca4555",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c557117d9f32a174",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "15a5e9e19d52cd28",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e006dc6396f7e8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fec0a2f0ac6f2700",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Apartment Ideas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c133f5f824a547e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Apartment Ideas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7d33f3a1fd5027f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4b13053d57e707bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Apartment Ideas.md"
+              }
+            }
+          },
+          {
+            "id": "6e7803933e0fb722",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "26037abba0ac93ec",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "0b54c8dd29a3eba3",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e7af27168503c3a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a97d15ce821924ec",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "audio-recorder:Start/stop recording": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "3d-graph:3D Graph": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "572367755169a4d2",
+  "lastOpenFiles": [
+    "Content/Chemistry 1061 1065/Chemistry.md",
+    "bonding in metals.md",
+    "bonding theory.md",
+    "strong force.md",
+    "nuclear reactions.md",
+    "origin of atoms.md",
+    "Molecular orbital theory.md",
+    "Excalidraw/Drawing 2023-10-25 23.59.45.excalidraw.md",
+    "Content/Chemistry 1061 1065/File bank/Coulombs law.md",
+    "Content/Chemistry 1061 1065/Atoms, Forces, Energy.md",
+    "worksheet 3.4 recap.md",
+    "Doppler effect.md",
+    "mastery checkpoint 3.md",
+    "Valence bond theory.md",
+    "Apartment Ideas.md",
+    "Covalent bonds.md",
+    "localized electrons.md",
+    "Content/Chemistry 1061 1065/File bank/Bonds.md",
+    "interactions between atoms.md",
+    "2.6 orbitals, electron clouds, probabilities and energies.md",
+    "worksheet 3.3 recap.md",
+    "worksheet 3.2 recap.md",
+    "worksheet 3.1 recap.md",
+    "binding energy.md",
+    "pi orbitals.md",
+    "Pasted image 20231024155252.png",
+    "Sigma bonds.md",
+    "Pasted image 20231024135843.png",
+    "Pasted image 20231023222732.png",
+    "Pasted image 20231023222714.png",
+    "Pasted image 20231023222408.png",
+    "Excalidraw/Drawing 2023-10-20 11.42.00.excalidraw.png",
+    "Pasted Image 20231020153314_078.jpg",
+    "Excalidraw/CHEM1061_CLUE_Wksht3.6.pdf",
+    "shortage/CHEM1061_CLUE_Wksht3.6 1.pdf",
+    "shortage/CHEM1061_CLUE_Wksht3.6.pdf",
+    "Excalidraw/CHEM1061_CLUE_Wksht3.5.pdf",
+    "Pasted image 20231017135035.png",
+    "Pasted image 20231017133645.png",
+    "Pasted image 20231017125625.png",
+    "Excalidraw/CHEM1061_CLUE_Wksht3.4.pdf",
+    "Excalidraw/CHEM1061_CLUE_Wksht3.2 (1).pdf",
+    "Excalidraw/CHEM1061_CLUE_Wksht3.3 (1).pdf",
+    "Excalidraw/CHEM1061_CLUE_Wksht2.3.pdf",
+    "Excalidraw/CHEM1061_CLUE_Wksht3.2.pdf",
+    "Excalidraw/CHEM1061_CLUE_Wksht2.5 (2).pdf",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

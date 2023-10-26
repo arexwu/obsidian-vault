@@ -1,0 +1,16 @@
+-  nucleus emits/captures particles and energy in the form of electromagnetic radiation
+	- Most common types
+		- alpha particle emission
+		- beta particle emission
+			- electron emission
+			- positron emission
+		- electron capture
+			- nucleus captures a core electron and converts it into a proton
+		- gamma radiation emission
+- why do some nuclei decay
+	- 1:1 neutron/proton ratio
+- Stable nuclei
+	- number of neutrons generally are more than protons so strong force overcomes P+ P+ repulsion
+	- have <92 protons
+- number of atoms in universe is decreasing
+[[nuclear reactions]]

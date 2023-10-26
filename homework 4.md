@@ -1,0 +1,1 @@
+- when calculating who should pay tax, find equilibrium based off new grap

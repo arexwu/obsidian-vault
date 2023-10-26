@@ -1,0 +1,25 @@
+### abnormal regulation of blood glucose
+- hyper glycemia 
+	- high blood glucose levels
+	- associated with diabetes
+	- metabolic syndrome
+		- diabetes, cardiovascular disease
+- Hypoglycemia
+	- low blood glucose levels
+### glycemic response
+- blood glucose response to eating carbohydrates
+- Glycemic index
+	- method of classifying food according to their potential for raising blood glucose
+	- Foods with low GI may lower risk for heart disease, improve blood lipids, reduce inflammation
+	- High >70
+	- intermediate 55-69
+	- low <55
+- Glycemic Load
+	- Amount of carbohydrate in a food multiplied by the glycemic index of that carbohydrate divided by 100
+	- High >20 
+	- intermediate 11-19
+	- low <10
+- Recommended carbohydrate intake
+	- 130g, amount needed for cns function
+	- AMDR 45-65% of total energy needs
+	- non-nutritive sweeteners potentially leading to insulin resistance

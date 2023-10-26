@@ -1,0 +1,12 @@
+the price cannot go above this level
+- Non-binding
+	- occurs if equilibrium price is below the ceiling
+	- has no effect 
+- Binding price ceiling
+	- when the price ceiling undercuts equilibrium price
+- ![[Pasted image 20231001143313.png]]
+	- causes suppliers to pull out of the market
+		- causes shortages
+		- shortage = upwards pressure on price
+- When governments impose binding price ceilings, shortage arises causing goods to need to be rationed
+- 

@@ -1,0 +1,6 @@
+- n atomic orbitals = n molecular orbitals
+- 2 electrons in a bonding orbitals are cancelled out in a antibonding orbital
+	- bonding orbital electrons = stabilizing
+	- antibonding orbital electrons = destabilizing
+- each orbital can contain up to two electrons
+- electrons are delocalized

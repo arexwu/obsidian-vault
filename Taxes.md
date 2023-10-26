@@ -1,0 +1,16 @@
+- how taxes on sellers affect market outcomes
+	- immediate impact on sellers
+		- shift in supply
+	- supply curve shifts left
+	- leading to higher equilibrium price
+	- lower equilibrium market
+	- taxes reduce the size of the market
+	- supply shifts to the left by exactly the tax amount
+		- new price - old price = tax amount
+	- both sides carry the tax burden equally
+		- both suppliers and buyers pay more
+	- may discourage market activity
+- How taxes on buyers affect market outcomes
+	-  shifts demand to the left
+	- lowers equilibrium price
+	- but buyers still receive higher price

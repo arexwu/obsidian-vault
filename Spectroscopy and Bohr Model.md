@@ -1,0 +1,28 @@
+### Issues with Rutherford's model
+- model does not explain atomic absorption and emission spectra
+- Model conflicts with the laws of physics, the atom would implode if the model was correct
+### Bohr model
+- Electrons orbit around nucleus
+	- the ones closest to nucleus is lowest energy furthest is higher energy
+	- when an electron absorbs a photon, the electron moves to a higher, more energetic orbit
+		- this produces an absorption spectrum
+			- higher energy the electron rises higher energy light absorbed
+	- when an electron emits a photon, the electron moves to a lower less energetic orbit
+		- this would produce an emission spectrum
+			- the higher energy the electron falls from, the higher energy light
+	- What about photoelectric effect
+		- An atom absorbs a photon resulting in the ejection of the electron, leading to a n level = infinity
+			- this is called ionization
+- Orbits have definite energies and are at definite distances from nucleus.
+	- this is Bohr's mistake
+- Energies of electrons in atoms are quantized
+- explains emission and absorption spectra by invoking discrete energy levels characterize by quantum numbers (n)
+- Photons of electromagnetic energy are emitted or absorbed by atoms as electrons move from one energy level to another
+- The energy of photons correspond to the difference in energy between electron orbits
+- Issues with Bohr Model
+	- its wrong, except for hydrogen
+	- we don't know where the electron is
+	- useful for thinking about electrons having quantified energies
+- energy diagrams
+	- ![[Pasted image 20230927181610.png]]
+	- 

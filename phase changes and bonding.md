@@ -1,0 +1,11 @@
+- melting and boiling 
+	- absorbs energy
+	- happens between particles
+	- energy comes from the surroundings
+	- when melting, the interactions between particles must be overcome so they move relative to each other(causes liquid to flow)
+	- the magnitude of the melting point and boiling point provides estimate of the strength of the attractive interactions
+- Freezing and condensing
+	- releases energy
+	- between particles
+	- energy goes to the surroundings
+	  

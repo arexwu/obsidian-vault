@@ -1,0 +1,38 @@
+- involves nucleus
+- often result in change in element
+- mass is NOT conserved
+- mass is converted into energy per E=mc^2
+- E = [[binding energy]]
+- ![[Pasted image 20231023222408.png]]
+# 3 types of reactions
+-  fusion: adding nuclei together
+- fission: breaking a nucleus apart
+- fragmentation of heavy nuclei to form lighter, more stable ones and energy
+- radioactive decay: emitting particles
+- At very high temperatures nuclear fusion can occur
+- ![[Pasted image 20231023222732.png]]
+- At very high temps, electrons are stripped away so that they overcome the attraction to the nucleus. this becomes plasma
+# [[strong force]]
+- strongest force but works in very small distances
+	- only works in the distance of the diameter of the nucleus.
+- binds protons and neutrons together, stronger than the proton proton repulsion
+- most stable element is iron
+	- all elements will want to be iron
+	- fusion occurs before iron
+	- fission afterwards
+# [[Radioactivity]]
+-  nucleus emits/captures particles and energy in the form of electromagnetic radiation
+	- Most common types
+		- alpha particle emission
+		- beta particle emission
+			- electron emission
+			- positron emission
+		- electron capture
+			- nucleus captures a core electron and converts it into a proton
+		- gamma radiation emission
+- why do some nuclei decay
+- [[Stable nuclei]]
+	- number of neutrons generally are more than protons so strong force overcomes P+ P+ repulsion
+	- have <92 protons
+	- close to 1:1 neutron/proton ratio
+- number of atoms in universe is decreasing

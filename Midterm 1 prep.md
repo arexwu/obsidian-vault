@@ -1,0 +1,9 @@
+- [x] memorize p/q chart
+- [ ] review price floor/ceiling 
+- [x] review elasticity
+	- [x] elasticity properties
+	- [x] elasticity value meanings
+	- [x] formula of elasticity
+- [ ] Graphs of excess demand
+- [ ] review tax graphs
+- [ ] Ask about question 23 in office hours

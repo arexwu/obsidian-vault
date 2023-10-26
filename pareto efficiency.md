@@ -1,0 +1,4 @@
+- an action that harms no one and helps at least one person
+- pareto efficient if the only way to make one person better off, is to make another person is worse off
+- use ppf to illustrate pareto efficiency
+- pareto efficiency will occur on points that lie on a production possibility curve's frontier

@@ -1,0 +1,29 @@
+-  the ratio of the percentage change in quantity demanded of a product to the percentage change
+- Supply is generally more elastic in long run than in short run
+	- in short periods, firms can produce more by increasing shifts, however, cannot increase factories 
+		- meaning, the quantity supplied is not responsive to changes in price, the increase of productivity is not enough
+	- In long periods, firms can increase factories, new technologies, new firms enter market, old firms leave, quantity supplied will respond more substantially to price changes.
+- Availability of close substitutes
+        -  IE drugs with generics
+        - more substitutes = more elastic demand
+            - satisfy the same needs, like hot dog/hamburger
+        - more firms! monopoly = price is high
+    - Necessities vs Luxury
+        - Necessities = inelastic
+	        - also inelastic during short run, gasoline, when you are out of gas you will buy gas no matter the price, however, in the long run, it will be more elastic as you may buy a more efficient car
+        - luxuries = elastic
+    - Definition of market
+        - narrowly defined markets = more elastic demand
+            - Beethoven vs classical music
+                - classical has many different composers
+    - Time horizon
+        - demand is more elastic over over time horizons
+            - Demand is always elastic over the long run
+            - if demand is perfectly inelastic, the demand curve is completely vertical
+            - if demand is perfectly elastic, demand curve is completely horizontal and the elasticity is infinite
+- demand is elastic    
+	 - price elasticity of demand ≥ 1
+	 - inelastic when demand < 1
+	-  Ex. If price is increases by 1% and Qd decreases by 2% then Ed = 2 elastic
+	- Flatter the demand curve, the greater the elasticity
+[[Models Notes]] [[definition of elasticity]] [[Demand curve]] [[Chapter 5]]

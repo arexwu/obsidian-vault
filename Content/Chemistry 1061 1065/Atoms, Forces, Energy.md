@@ -1,0 +1,15 @@
+- ### [[Coulombs law]]
+    - opposite charges attract, like charges repel
+    - as charges repel, potential energy decreases
+    - as charges attract,, potential energy increases
+- ### [[London dispersion forces]] (LDFs)
+    - caused by fluctuations of electron density in the molecule
+    - adjacent molecule
+        - gets an induced dipole, meaning that due to a certain charge on the molecule next to it, another molecule becomes an opposite charge, leading to attraction. known as london dispersion force
+    - Holds atoms together in low temperatures
+    - if two atoms get too close, the electron clouds begin to repel each other
+    - IMFs = intermolecular forces
+### Interactions between simple molecules
+- Helium and hydrogen in this case
+- [[Why do diatomic molecules happen]]
+- [[Why do certain molecules attract stronger than others]]

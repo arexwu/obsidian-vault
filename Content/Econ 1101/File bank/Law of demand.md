@@ -1,0 +1,1 @@
+With all things being equal, demand will go down as price rises

@@ -1,0 +1,6 @@
+- Perfectly inelastic = supply curve vertical
+- Perfectly elastic = supply curve horizontal
+- ![[Pasted image 20230925141943.png]]![[Pasted image 20230925160033.png]]
+- The above figure shows the relation between amount of supply and the elasticity of supply
+	- When low levels are supplied, the elasticity will be high as firms have excess amounts of production available
+	- when there are high levels of supply elasticity will be low as increasing production is hard, suppliers do not have excess supply available, meaning that they now need to build factories and such

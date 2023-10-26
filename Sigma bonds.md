@@ -1,0 +1,6 @@
+- single bond = 1 sigma
+- double bond = 1 sigma, 1 [[pi orbitals]]
+- triple bond = 1 sigma 2 [[pi orbitals]]
+- form when atomic orbitals overlap end to end
+	- very strong, reason why diamonds melt as these hold the atomic cores together
+	- ![[Pasted image 20231017133645.png]]

@@ -1,0 +1,6 @@
+- [[Deadweight loss]]
+	- loss to the economy
+	- ![[Pasted image 20231002102906.png]]
+	- Basically exceeds the revenue raised by the government, so it is a net loss to the economy, the money goes nowhere.
+	- the more elastic the curve, the greater the deadweight loss
+	- 
